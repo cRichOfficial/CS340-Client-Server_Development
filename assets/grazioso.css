@@ -1,0 +1,9 @@
+.site-logo{
+    width: 6em;
+    vertical-align: middle;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+}
